@@ -1,5 +1,5 @@
 public class Teilnehmer{
-	String name;
-	String email;
-	String status;
+	private String name;
+	private String email;
+	private String status;
 }
